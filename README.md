@@ -5,12 +5,12 @@
 Hello world, I am a junior frontend developer passionate about technology. 
 I started my coding journey on a bootcamp that made me really motivated about programming. 
 
-What's next? 
+## What's next? 
 
 - 🌱 I’m currently learning JavaScript / TypeScript / React / Svelte
 - 💬 I’m open for opportunities 
 - ⚡ Fun fact: I'm also a creative copywriter
 
-## My presence around the internet 🌎:
+## My presence around the internet 🌎
 
 - Check out my <a href="https://www.linkedin.com/in/natinats/">LinkedIn</a> 💼
