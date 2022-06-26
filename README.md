@@ -10,7 +10,7 @@ I started my coding journey on a bootcamp that made me really motivated about pr
 
 ## What's next? 
 
-- 🌱 I’m currently learning JavaScript / TypeScript / React / Svelte
+- 🌱 I’m currently learning JavaScript / TypeScript / React / Svelte / Azure
 - 💬 I’m open for opportunities
 - ⚡ Fun fact: I'm also a creative copywriter
 
